@@ -1,0 +1,32 @@
+﻿@model Products
+<form id="updateProductForm">
+    <input type="hidden" name="ProductId" value="@(Model.ProductID)" /> <!-- Trường ẩn để lưu Id sản phẩm -->
+    <input type="text" name="ProductName" value="@(Model.ProductName)" placeholder="Tên sản phẩm" />
+    <input type="number" name="Price" value="@(Model.Price)" placeholder="Giá sản phẩm" />
+    <input type="text" name="Producttype" value="@(Model.ProductType)" placeholder="Loại sản phẩm" />
+    <button type="submit">Cập nhật sản phẩm</button>
+</form>
+
+<script>
+    $(document).ready(function () {
+        $("#updateProductForm").submit(function (e) {
+            e.preventDefault();
+            var formData = $(this).serialize();
+            $.ajax({
+                url: "/Products/UpdateProduct",
+                type: "POST",
+                data: formData,
+                success: function (response) {
+                    if (response.success) {
+                        alert("Cập nhật sản phẩm thành công!");
+                    } else {
+                        alert(response.message || "Có lỗi xảy ra. Vui lòng kiểm tra lại thông tin.");
+                    }
+                },
+                error: function () {
+                    alert("Lỗi kết nối đến máy chủ.");
+                }
+            });
+        });
+    });
+</script>

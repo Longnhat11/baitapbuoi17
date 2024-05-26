@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\dataaccess\\productsevices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\dataaccess\\productsevices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\dataaccess\\iproductsevices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\dataaccess\\iproductsevices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\views\\products\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\views\\products\\exportproductstoexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\views\\products\\exportproductstoexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\views\\products\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\views\\products\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\dataaccess\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\dataaccess\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\commonlib\\checkinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\commonlib\\checkinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|c:\\users\\lenovo\\source\\repos\\baitapbuoi17\\baitapbuoi17\\models\\variants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0CDD32-5948-4302-9070-CE591C7FCB82}|baitapbuoi17\\baitapbuoi17.csproj|solutionrelative:baitapbuoi17\\models\\variants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportProductsToExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\ExportProductsToExcel.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Views\\Products\\ExportProductsToExcel.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\ExportProductsToExcel.cshtml",
+              "RelativeToolTip": "baitapbuoi17\\Views\\Products\\ExportProductsToExcel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:20:14.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Views\\Products\\DeleteProduct.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\DeleteProduct.cshtml",
+              "RelativeToolTip": "baitapbuoi17\\Views\\Products\\DeleteProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T05:18:51.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Views\\Products\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\UpdateProduct.cshtml",
+              "RelativeToolTip": "baitapbuoi17\\Views\\Products\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T04:56:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\appsettings.json",
+              "RelativeDocumentMoniker": "baitapbuoi17\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\appsettings.json",
+              "RelativeToolTip": "baitapbuoi17\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T04:40:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "baitapbuoi17\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:29:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "baitapbuoi17\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:15:55.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "baitapbuoi17\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv1gAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:21:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\Productsevices\\ProductServices.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\DataAccess\\Productsevices\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\Productsevices\\ProductServices.cs",
+              "RelativeToolTip": "baitapbuoi17\\DataAccess\\Productsevices\\ProductServices.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAF0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:16:58.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\IProductsevices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\DataAccess\\IProductsevices\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\IProductsevices\\IProductServices.cs",
+              "RelativeToolTip": "baitapbuoi17\\DataAccess\\IProductsevices\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:12:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Returndata.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\DTO\\Returndata.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\DataAccess\\DTO\\Returndata.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\DataAccess\\DTO\\Returndata.cs",
+              "RelativeToolTip": "baitapbuoi17\\DataAccess\\DTO\\Returndata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:06:28.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Program.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Program.cs",
+              "RelativeToolTip": "baitapbuoi17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:05:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "baitapbuoi17\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:03:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "checkInput.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Commonlib\\checkInput.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Commonlib\\checkInput.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Commonlib\\checkInput.cs",
+              "RelativeToolTip": "baitapbuoi17\\Commonlib\\checkInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:00:42.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Variants.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Models\\Variants.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Models\\Variants.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Models\\Variants.cs",
+              "RelativeToolTip": "baitapbuoi17\\Models\\Variants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:50:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "baitapbuoi17\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\baitapbuoi17\\baitapbuoi17\\Models\\Products.cs",
+              "RelativeToolTip": "baitapbuoi17\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:47:19.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
