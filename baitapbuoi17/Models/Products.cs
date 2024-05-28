@@ -6,8 +6,7 @@ namespace baitapbuoi17.Models
     public class Products
     {
        [Key]public int ProductID { set;get; }
-       public string ProductName {  set;get; }
-       public decimal Price {  set;get; }
-       public string ProductType {  set;get; }
+            public string ProductName {  set;get; }
+            public int CategoryID { set;get; }
     }
 }

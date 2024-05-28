@@ -2,13 +2,13 @@
 
 namespace baitapbuoi17.DataAccess.DTO
 {
-    public class Returndata
+    public class ReturnData
     {
         public int returnCode {  get; set; }
         public string returnMsg { get; set; }
     }
-    public class ReturndataReturnProduct:Returndata {
+    public class ReturnDataReturnProduct: ReturnData
+    {
         public Products Products { get; set; }
-        public List<Products> ListProducts { get; set; }   
     }
 }

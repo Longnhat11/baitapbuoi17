@@ -1,0 +1,59 @@
+﻿@model baitapbuoi17.Models.Products
+
+@{
+    Layout = null;
+}
+<div class="form-group">
+    <label for="email">ProductID:</label>
+    <input type="email" class="form-control" id="txtProductID">
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            LoadData();
+
+            $("#btnSave").click(function () {
+
+                SaveData();
+            });
+
+           
+
+
+
+       
+        function SaveData() {
+
+            debugger;
+            var ID = $("txttProductID").val();
+            if (ID == null || ID == "") {
+                alert("ID không được trống!");
+                return;
+            }
+                var param = {
+                    ProductID=ID;
+                };
+
+        }
+        $.ajax({
+            type: 'POST',
+            url: "/Home/DeleteProduct",
+            data: param,
+            async: true,
+            // dataType: "html",
+            dataType: "json",
+            success: function (rs) {
+                if (rs.responseCode > 0) {
+
+                    LoadData();
+                }
+                alert(rs.responseMessage);
+            },
+            error(rs) {
+                console.log(JSON.stringify(rs));
+            }
+        });
+        }
+    </script>
+}
