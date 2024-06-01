@@ -10,5 +10,6 @@ namespace baitapbuoi17.DataAccess.DTO
     public class ReturnDataReturnProduct: ReturnData
     {
         public Products Products { get; set; }
+        public LoginViewModel Logins { get; set; }
     }
 }

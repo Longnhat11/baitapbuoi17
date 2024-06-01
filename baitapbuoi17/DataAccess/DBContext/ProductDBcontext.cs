@@ -12,5 +12,6 @@ namespace baitapbuoi17.DataAccess.DBContext
         public DbSet<Products> Products { get; set; }
         public DbSet<GroupAttribute> groupAttributes { get; set; }
         public DbSet<Attributes> attributes { get; set; }
+        public DbSet<LoginViewModel> logins { get; set; }
     }
 }

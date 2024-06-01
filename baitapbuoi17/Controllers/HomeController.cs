@@ -98,7 +98,7 @@ namespace baitapbuoi17.Controllers
             var model = await new ProductServices().GetProducts();
             return Json(model);
         }
-        public async Task<JsonResult> DeleteProduct(ProductAddUpdateRequestData requestData)
+        public async Task<JsonResult>DeleteProduct(ProductAddUpdateRequestData requestData)
         {
             var model = new ReturnData();
             try
@@ -129,21 +129,12 @@ namespace baitapbuoi17.Controllers
         {
             return View();
         }
-
-        [HttpPost]
-        public async Task<IActionResult> Login(LoginViewModel model)
+        public IActionResult Index()
         {
-            if (ModelState.IsValid)
-            {
-                var result = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, model.RememberMe, lockoutOnFailure: false);
-                if (result.Succeeded)
-                {
-                    return RedirectToAction("Index", "Home");
-                }
-                ModelState.AddModelError(string.Empty, "Đăng nhập không thành công.");
-            }
+            var model = new List<Products>();
             return View(model);
         }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

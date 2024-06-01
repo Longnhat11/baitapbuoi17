@@ -49,8 +49,8 @@ namespace baitapbuoi17.DataAccess.Productsevices
                     return result;
                 }
                 //check trung
-                var product = dbContext.Products.Find(productAddUpdateRequestData.ProductName);
-                if(product != null|| product.ProductID>0 ) {
+                var product = dbContext.Products.ToList().Where(x=>x.ProductName==productAddUpdateRequestData.ProductName);
+                if(product != null ) {
                     result.returnCode = -1;
                     result.returnMsg = "Tên sản phẩm đã tồn tại!";
                     return result;
@@ -83,7 +83,7 @@ namespace baitapbuoi17.DataAccess.Productsevices
                         ProductID = productAddUpdateRequestData.ProductId,
                     };
 
-                    dbContext.Add(GroupAttr_Req);
+                    dbContext.groupAttributes.Add(GroupAttr_Req);
 
                 }
                 //them thuoc tinh
@@ -94,10 +94,10 @@ namespace baitapbuoi17.DataAccess.Productsevices
                     var item = productAddUpdateRequestData.AttributesValue.Split('_')[i];
 
                     var attr_name = item.Split(',')[0];
-                    var attr_Price = item.Split(',')[1];
+                    var attr_Price = item.Split(',')[2];
 
-                    var attr_priceSale = item.Split(',')[2];
-                    var attr_Quantity = item.Split(',')[3];
+                    var attr_priceSale = item.Split(',')[3];
+                    var attr_Quantity = item.Split(',')[1];
 
                     // kiểm tra xem null 
 
@@ -133,9 +133,9 @@ namespace baitapbuoi17.DataAccess.Productsevices
                         Pricesale = Convert.ToInt32(attr_priceSale),
                     };
 
-                    dbContext.Add(attr_Req);
+                    dbContext.attributes.Add(attr_Req);
                 }
-                dbContext.SaveChanges();
+                dbContext.SaveChangesAsync();
 
                 result.returnCode = 1;
                 result.returnMsg = "Thêm sản phẩm thành công";
